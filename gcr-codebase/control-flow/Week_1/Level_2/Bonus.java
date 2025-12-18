@@ -1,4 +1,4 @@
-/* 17. Create a program to find the bonus of employees based on their years of service.
+/* 2. Create a program to find the bonus of employees based on their years of service.
        Hint => 
 	a. Zara decided to give a bonus of 5% to employees whose year of service is more than 5 years.
 	b. Take salary and year of service in the year as input.

@@ -1,4 +1,4 @@
-/* 11. Rewrite the above program to print the greatest factor of a number beside itself using a while loop.
+/* 10. Rewrite the above program to print the greatest factor of a number beside itself using a while loop.
        Hint => 
 	a. Get an integer input and assign it to the number variable. As well as define a greatestFactor variable and assign it to 1
 	b. Create a variable counter and assign counter = number - 1; Use the while loop till the counter is equal to 1.
