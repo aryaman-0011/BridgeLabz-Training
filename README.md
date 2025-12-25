@@ -75,3 +75,19 @@ BridgeLabz-Training/
 
 ---
 
+## 📅 Day 5 – Arrays in Java
+**(Date: 20-Dec-2025)**  
+
+### What I Did:
+- One-dimensional arrays
+- Array initialization and traversal
+- Basic array operations
+- Finding even/odd elements
+- Sum, average, min, max in arrays
+- Simple array-based problems
+
+
+🔗 **Code Link:**  
+👉 [Day 5 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
