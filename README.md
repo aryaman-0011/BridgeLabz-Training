@@ -39,6 +39,22 @@ BridgeLabz-Training/
 - Practiced adding , commititng, and pushing java files to github.
 
 🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 2 – Basic Java Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
+
+---
+
+## 📅 Day 3 – Git Practice & Basic Java Programs  
+**(Date: 18-Dec-2025)**  
+
+### What I Did:
+- Studied Java programming elements:
+  - Variables and Data Types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Commited and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 
