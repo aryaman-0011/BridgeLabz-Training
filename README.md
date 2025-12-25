@@ -91,3 +91,18 @@ BridgeLabz-Training/
 👉 [Day 5 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
+
+## 📅 Day 6 – Java Methods & Functions
+**(Date: 22-Dec-2025)**  
+
+### What I Did:
+- Method declaration and calling
+- Method parameters and return types
+- Static vs non-static methods
+- Mathematical utility methods
+- Reusable logic using methods
+- Code organization improvement
+
+
+🔗 **Code Link:**  
+👉 [Day 6 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods/Week_1)
