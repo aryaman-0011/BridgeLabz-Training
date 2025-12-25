@@ -106,3 +106,22 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 6 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods/Week_1)
+
+---
+
+## 📅 Day 7 – String Handling in Java 
+**(Date: 23-Dec-2025)**  
+
+### What I Did:
+- String creation and immutability
+- Common String methods
+- Character-level operations using `charAt()`
+- String reversal
+- Character frequency
+- Case conversion
+- Anagram checking
+
+
+🔗 **Code Link:**  
+👉 [Day 7 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
