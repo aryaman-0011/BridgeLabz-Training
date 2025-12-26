@@ -3,7 +3,7 @@
 
 ---
 
-## 📅 Day 1 – Git & GitHub Setup  
+## Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**  
 
 ### What I Did:
@@ -30,7 +30,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 2 – Git Practice & Basic Java Programs  
+## Day 2 – Git Practice & Basic Java Programs  
 **(Date: 17-Dec-2025)**  
 
 ### What I Did:
@@ -43,7 +43,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 3 – Programming Elements in Java 
+## Day 3 – Programming Elements in Java 
 **(Date: 18-Dec-2025)**  
 
 ### What I Did:
@@ -59,7 +59,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 4 – Control Flow Statements 
+## Day 4 – Control Flow Statements 
 **(Date: 19-Dec-2025)**  
 
 ### What I Did:
@@ -71,11 +71,11 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 4 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+👉 [Day 4 – Control Flow Statements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
-## 📅 Day 5 – Arrays in Java
+## Day 5 – Arrays in Java
 **(Date: 20-Dec-2025)**  
 
 ### What I Did:
@@ -88,11 +88,11 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 5 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 5 – Arrays in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
-## 📅 Day 6 – Java Methods & Functions
+## Day 6 – Java Methods & Functions
 **(Date: 22-Dec-2025)**  
 
 ### What I Did:
@@ -105,11 +105,11 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 6 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods/Week_1)
+👉 [Day 6 – Methods & Functions in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods/Week_1)
 
 ---
 
-## 📅 Day 7 – String Handling in Java 
+## Day 7 – String Handling in Java 
 **(Date: 23-Dec-2025)**  
 
 ### What I Did:
@@ -123,5 +123,5 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 7 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 7 – String Handling in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
