@@ -109,7 +109,7 @@ BridgeLabz-Training/
 
 ---
 
-## Day 7 – String Handling in Java 
+## Day 7 – String Handling in Java / Extras 
 **(Date: 23-Dec-2025)**  
 
 ### What I Did:
@@ -120,8 +120,9 @@ BridgeLabz-Training/
 - Character frequency
 - Case conversion
 - Anagram checking
+- Solved some extras problem for practice of all the learned concept.
 
 
 🔗 **Code Link:**  
 👉 [Day 7 – String Handling in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-
+👉 [Day 7 – Extras](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
