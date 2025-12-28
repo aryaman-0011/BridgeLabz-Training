@@ -311,3 +311,34 @@ BridgeLabz-Training/
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 
 ---
+
+## Day 11 – Constructors, Access Modifiers & Static Concepts  
+(**Date: 27-Dec-2025**)
+
+
+**Topics studied:**
+
+- Studied **Java Constructors**
+  - Default constructor  
+  - Parameterized constructor  
+  - Copy constructor  
+  - Constructor chaining  
+- Learned **Instance vs Class (Static) Variables**
+- Studied **Access Modifiers**
+  - public  
+  - protected  
+  - private   
+
+
+
+**Practiced Problems**
+
+- Implemented multiple **constructor-based programs**
+- Solved **access modifier–based problems** using inheritance
+- Practiced **5 LeetCode Array problems** (Core Java logic)
+
+
+
+**Code Links**
+
+- [Constructors & Access Modifiers](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructorsandaccessmodifiers/level1)
