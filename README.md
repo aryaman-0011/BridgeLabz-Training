@@ -40,3 +40,20 @@ BridgeLabz-Training/
 
 ```
 ---
+
+##  Day 2 – Java Programming Prerequisites
+
+(**Date: 16-Dec-2025**)
+
+**Practiced:**
+* Basic input and output programs
+* Understanding Java program structure
+* Programming prerequisites required before Core Java concepts
+
+**Code Link:**
+[Program Prerequisites](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
+
+**Git Activity:**
+* Code committed and pushed to GitHub
+
+---
