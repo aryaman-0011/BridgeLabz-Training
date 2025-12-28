@@ -236,8 +236,43 @@ BridgeLabz-Training/
 * Date arithmetic using built-in methods
 
 **Code Link:**
-Extra Practice
 [Extras](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+**Git Activity:**
+
+* Code committed and pushed to GitHub
+
+---
+
+## Day 9 – Scenario-Based & Real-World Java Problems
+
+(**Date: 24-Dec-2025**)
+
+**Topics studied:**
+
+* Scenario-based problem solving
+* Real-world Java application logic
+* Stack overflow implementation
+* `hashCode()` method and overriding
+* Synchronized vs non-synchronized methods
+* String memory management (SCP)
+
+**Practiced Scenario-Based Problems:**
+
+1. Coffee Counter Chronicles
+2. Maya’s BMI Fitness Tracker
+
+**Concepts Used:**
+
+* Variables and primitive data types
+* Scanner input/output
+* Operators
+* Conditional logic (`if-else`, `switch`)
+* Loops (`while`, `for`)
+* `break` and `continue`
+
+**Code Link:**
+[Scenario-based-Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 **Git Activity:**
 
