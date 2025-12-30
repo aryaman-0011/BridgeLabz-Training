@@ -1,4 +1,4 @@
-package com.objectmodelling.selfproblems;
+package com.objectmodelling.assistedproblems;
 
 public class Composition{
     public static void main(String[] args) {

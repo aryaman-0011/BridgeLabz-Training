@@ -1,4 +1,4 @@
-package com.objectmodelling.selfproblems;
+package com.objectmodelling.assistedproblems;
 
 class Bank {
     private String bankName;

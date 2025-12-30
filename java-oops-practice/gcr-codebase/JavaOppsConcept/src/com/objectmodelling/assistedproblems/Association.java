@@ -1,4 +1,4 @@
-package com.objectmodelling.selfproblems;
+package com.objectmodelling.assistedproblems;
 
 public class Association{
     public static void main(String[] args) {
