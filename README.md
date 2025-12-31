@@ -398,3 +398,40 @@ BridgeLabz-Training/
 
 - [Object Modeling & Class Diagram](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodelling)
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_4)
+
+---
+
+## Day 14 – Inheritance
+(**Date: 31-Dec-2025**)
+
+
+**Topics studied:**
+
+- Studied and practiced Inheritance concepts:
+	- Inheritance
+	- Single Level Inheritance
+	- Multilevel Inheritance
+	- Hierarchical Inheritance
+	- Key Features of Inheritance
+	- Method Overriding
+	- Constructor Inheritance in Java
+	- Polymorphism and Inheritance
+	- Access Modifiers and Inheritance
+- Solved **5 scenario-based Java programs**:
+- Solved **5 LeetCode problems** using Core Java
+
+
+**Practiced Problems**
+
+- Digital Watch Simulation ⏱️
+- Online Quiz Application 🧠
+- Currency Exchange Kiosk 💱
+- Bus Route Distance Tracker 🚌
+- Festival Lucky Draw 🎉
+
+**Code Links**
+
+- [Inheritance](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
+- [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_5)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
