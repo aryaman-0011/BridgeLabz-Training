@@ -342,3 +342,32 @@ BridgeLabz-Training/
 **Code Links**
 
 - [Constructors & Access Modifiers](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructorsandaccessmodifiers/level1)
+
+---
+
+## Day 12 – Keywords and instanceOf operator
+(**Date: 29-Dec-2025**)
+
+
+**Topics studied:**
+
+- Solved **5 scenario-based questions** using Core Java  
+- Studied **keywords** and the **`instanceof` operator**  
+- Practiced **2 LeetCode array problems** 
+
+
+
+**Practiced Problems**
+
+- Parking Lot Gate System 🚗
+- The Number Guessing Game 🎲
+- Shopkeeper’s Discount Dashboard 🛍️
+- School Bus Attendance System 🚍
+- Phone Recharge Simulator 📱
+
+
+**Code Links**
+
+- [Keywords](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inbuiltfunction/level1)
+- [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_3)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
