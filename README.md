@@ -108,4 +108,37 @@ and many more...
 **Code Links**
 
 - [Object Modeling & Class Diagram](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodelling)
+
 ---
+
+## Day 14 – Inheritance
+(**Date: 31-Dec-2025**)
+
+
+**Topics studied:**
+
+- Studied and practiced Inheritance concepts:
+	- Inheritance
+	- Single Level Inheritance
+	- Multilevel Inheritance
+	- Hierarchical Inheritance
+	- Key Features of Inheritance
+	- Method Overriding
+	- Constructor Inheritance in Java
+	- Polymorphism and Inheritance
+	- Access Modifiers and Inheritance
+
+
+**Practiced Problems**
+
+- Library Management with Books and Authors
+- Smart Home Devices
+- Online Retail Order Management
+- Educational Course Hierarchy
+- Bank Account Types
+
+and many more...
+
+**Code Links**
+
+- [Inheritance](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
