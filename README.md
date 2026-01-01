@@ -82,3 +82,30 @@ and many more...
 - [Keywords](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inbuiltfunction/level1)
 
 ---
+
+## Day 13 – Object Modeling & Class Diagram
+(**Date: 30-Dec-2025**)
+
+
+**Topics studied:**
+
+- Studied and practiced problems on object modeling and relations
+- Learned about class diagram and sequence diagram 
+
+
+
+**Practiced Problems**
+
+- Library and Books (Aggregation)
+- Bank and Account Holders (Association)
+- Company and Departments (Composition)
+- School and Students with Courses (Association and Aggregation)
+- University with Faculties and Departments (Composition and Aggregation)
+
+and many more...
+
+
+**Code Links**
+
+- [Object Modeling & Class Diagram](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodelling)
+---
