@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/JavaOppsScenarioBased/.settings/
+
+/JavaOppsScenarioBased/.classpath
+
+/JavaOppsScenarioBased/.project
+
+# Java build output
+
+/JavaOppsScenarioBased/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/JavaOppsScenarioBased/.gitignore
