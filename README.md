@@ -142,3 +142,38 @@ and many more...
 **Code Links**
 
 - [Inheritance](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
+
+---
+
+## Day 15 – Encapsulation, Polymorphism and Interface
+(**Date: 1-Dec-2025**)
+
+
+**Topics studied:**
+- Encapsulation
+ 	- Data hiding
+ 	- Access modifiers
+ 	- Getters and setters
+ 	- Class responsibility
+
+- Polymorphism
+	- Method overloading
+	- Method overriding
+	- Compile-time vs runtime polymorphism
+	- Dynamic method dispatch
+
+- Interface
+	- Contract definition
+	- Multiple inheritance support
+	- Loose coupling
+	- Implementation enforcement
+
+**Practiced Problems**
+
+- Solved **5 scenario-based Java OOP programs**:
+- Solved multiple questions on **Encapsulation, Polymorphism and Interface**
+
+**Code Links**
+
+- [Encapsulation, Polymorphism and Interface](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationandpolymorphism)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_1)
