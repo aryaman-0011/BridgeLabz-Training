@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/JavaDSAConcepts/.settings/
+
+/JavaDSAConcepts/.classpath
+
+/JavaDSAConcepts/.project
+
+# Java build output
+
+/JavaDSAConcepts/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/JavaDSAConcepts/.gitignore
