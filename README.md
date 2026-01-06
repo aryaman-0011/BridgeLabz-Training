@@ -1,3 +1,6 @@
+# Week 2: OOPs concepts
+---
+
 ## Day 10 – OOP Concepts & Core Java Practice
 (**Date: 26-Dec-2025**)
 
@@ -177,3 +180,23 @@ and many more...
 
 - [Encapsulation, Polymorphism and Interface](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationandpolymorphism)
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_1)
+
+---
+# Week 3: OOPs Scenario Based Ques
+---
+
+## Day 16 – Solved OOPs scenario based problems
+(**Date: 2-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **5 scenario-based Java OOP programs**:
+  - Hospital Patient Management System
+  - Vehicle Rental Application
+  - University Course Enrollment System
+  - University Course Enrollment System
+  - E-Wallet Application
+  - Smart Home Automation System
+
+[OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_2)
+
