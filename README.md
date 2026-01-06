@@ -544,4 +544,37 @@ and many more...
 - [Stack & Queue](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueues)
 - [HashMap & Functions](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandfunctions)
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_3)
+
+---
+
+## Day 18 – Sorting Algorithms
+(**Date: 5-Dec-2025**)
+
+
+**Topics studied:**
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Selection Sort
+- Heap Sort
+- Counting Sort
+
+
+**Practiced Problems:**
+- Bubble Sort - Sort Student Marks
+- Insertion Sort - Sort Employee IDs
+- Merge Sort - Sort an Array of Book Prices
+- Quick Sort - Sort Product Prices
+- Selection Sort - Sort Exam Scores
+- Heap Sort - Sort Job Applicants by Salary
+- Counting Sort - Sort Student Ages
+- Solved **2 scenario-based Java OOP programs**
+- Solved **3 LeetCode problems** on Arrays using Core Java
+
+**Code Links**
+
+- [Sorting Algorithms](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_5)
 ---
