@@ -212,3 +212,16 @@ and many more...
   - MyBank – Managing Customer Accounts
 
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_3)
+
+---
+
+## Day 18 – Solved OOPs scenario based problems
+(**Date: 5-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **2 scenario-based Java OOP programs**:
+  - SwiftCart – The Grocery Shopping App
+  - CampusConnect – College Information System
+
+[OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_4)
