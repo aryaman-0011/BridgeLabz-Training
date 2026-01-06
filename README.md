@@ -200,3 +200,15 @@ and many more...
 
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_2)
 
+---
+
+## Day 17 – Solved OOPs scenario based problems
+(**Date: 3-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **2 scenario-based Java OOP programs**:
+  - CabbyGo – A Ride-Hailing App in the Making
+  - MyBank – Managing Customer Accounts
+
+[OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_3)
