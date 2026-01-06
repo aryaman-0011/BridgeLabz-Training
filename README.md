@@ -207,3 +207,25 @@ BridgeLabz-Training/
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 
 ---
+
+## Day 11 – OOP Concepts & Core Java Practice
+
+(**Date: 27-Dec-2025**)
+
+**Practiced Problems**
+
+- Pushed **5 scenario-based Core Java questions** to GitHub
+  - The Number Guessing Game 🎲
+  - Shopkeeper’s Discount Dashboard 🛍️
+  - School Bus Attendance System 🚍
+  - Phone Recharge Simulator 📱
+  - Parking Lot Gate System 🚗
+- Solved **2 LeetCode problems** and pushed solutions to GitHub  
+
+
+
+**Code Links**
+- [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_3)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
