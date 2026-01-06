@@ -185,3 +185,22 @@ BridgeLabz-Training/
 
 **Code Link:**
 [Scenario-based-Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+## Day 10 – OOP Concepts & Core Java Practice
+
+(**Date: 26-Dec-2025**)
+
+**Practiced Problems**
+
+- Pushed **3 scenario-based Core Java questions** to GitHub  
+- Solved **5 LeetCode problems** and pushed solutions to GitHub  
+
+
+
+**Code Links**
+- [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
