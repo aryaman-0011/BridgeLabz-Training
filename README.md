@@ -171,8 +171,8 @@ BridgeLabz-Training/
 
 **Practiced Scenario-Based Problems:**
 
-1. Coffee Counter Chronicles
-2. Maya’s BMI Fitness Tracker
+- Coffee Counter Chronicles
+- Maya’s BMI Fitness Tracker
 
 **Concepts Used:**
 
@@ -194,7 +194,10 @@ BridgeLabz-Training/
 
 **Practiced Problems**
 
-- Pushed **3 scenario-based Core Java questions** to GitHub  
+- Pushed **3 scenario-based Core Java questions** to GitHub
+  - Election Booth Manager ️
+  - Metro Smart Card Fare Deduction 🚇
+  - Raj’s Result Generator ‍
 - Solved **5 LeetCode problems** and pushed solutions to GitHub  
 
 
