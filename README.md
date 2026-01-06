@@ -1,3 +1,45 @@
+## 📂 Project Structure
+```
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 inbuiltfunction/   # Keywords, instance vs class members
+│   │               └── 📁 objectmodelling/   # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/     # Stack & Queue
+│   │               └── 📁 hashmap/            # HashMap + Hash Functions
+│   │               └── 📁 sorting/            # Sorting Algorithms
+```
+
+---
+
 # Week 1: Git, GitHub & Java Programming Fundamentals
 
 This repository documents my **day-wise learning progress** during the BridgeLabz Core Java training program.
