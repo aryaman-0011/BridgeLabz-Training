@@ -240,3 +240,17 @@ and many more...
   - EventEase – Event Management Platform
 
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_5)
+
+---
+
+## Day 20 – Solved OOPs scenario based problems
+(**Date: 7-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **3 scenario-based Java OOP programs**:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+[OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_6)
