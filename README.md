@@ -223,8 +223,7 @@ BridgeLabz-Training/
 
 ---
 
-## Day 12 – OOP Concepts & Core Java Practice
-
+## Day 12 – Scenario based and Leetcode
 (**Date: 29-Dec-2025**)
 
 **Practiced Problems**
@@ -241,5 +240,23 @@ BridgeLabz-Training/
 **Code Links**
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_3)
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
+
+## Day 13 – Scenario based
+(**Date: 30-Dec-2025**)
+
+
+**Practiced Problems:**
+
+- Sandeep’s Fitness Challenge Tracker 🏋️
+- Train Reservation Queue 🚆
+- Temperature Logger 🌡️
+- Movie Ticket Booking App 🎬
+- Rohan’s Library Reminder App 📚
+
+
+**Code Links:**
+- [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_4)
 
 ---
