@@ -118,11 +118,35 @@ and many more...
 - Find the Rotation Point in a Rotated Sorted Array
 
 and many more...
-- Solved **4 scenario-based Java OOP programs**
-- Solved **3 LeetCode problems** on Arrays using Core Java
 
 **Code Links:**
 
 - [Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/ioandstringsandsearching)
+
+---
+
+## Day 20 – Algorithm's Runtime Analysis & Big-O Notation
+(**Date: 7-Dec-2025**)
+
+
+**Topics studied:**
+- Runtime Analysis
+- Big-O Notation
+- Time Complexity Analysis
+- Best, Worst, and Average Case Complexities
+
+
+**Practiced Problems:**
+- Search a Target in a Large Dataset
+- Sorting Large Data Efficiently
+- String Concatenation Performance
+- Large File Reading Efficiency
+- Recursive vs Iterative Fibonacci Computation
+
+and many more...
+
+**Code Links:**
+
+- [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmsruntimebigo/)
 
 ---
