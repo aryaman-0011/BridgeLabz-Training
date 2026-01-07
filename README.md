@@ -260,3 +260,21 @@ BridgeLabz-Training/
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_4)
 
 ---
+
+## Day 14 – Scenario based and Leetcode
+(**Date: 31-Dec-2025**)
+
+
+**Practiced Problems:**
+
+- Digital Watch Simulation ⏱️
+- Online Quiz Application 🧠
+- Currency Exchange Kiosk 💱
+- Bus Route Distance Tracker 🚌
+- Festival Lucky Draw 🎉
+
+**Code Links:**
+- [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_5)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
