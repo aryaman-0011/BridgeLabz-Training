@@ -95,9 +95,6 @@ BridgeLabz-Training/
 **Code Link:**
 [Program Prerequisites](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
 
-**Git Activity:**
-* Code committed and pushed to GitHub
-
 ---
 
 ## Day 3 – Programming Elements in Java
@@ -122,10 +119,6 @@ BridgeLabz-Training/
 
 **Code Link:**
 [Programming Elements](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-
-**Git Activity:**
-
-* Code committed and pushed to GitHub
 
 ---
 
@@ -153,10 +146,6 @@ BridgeLabz-Training/
 **Code Link:**
 [Control-flows](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/Week_1)
 
-**Git Activity:**
-* Code committed and pushed to GitHub
-
-
 ---
 
 ## Day 5 – Java Arrays
@@ -177,9 +166,6 @@ BridgeLabz-Training/
 
 **Code Link:**
 [Arrays](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-
-**Git Activity:**
-* Code committed and pushed to GitHub
 
 ---
 
@@ -209,10 +195,6 @@ BridgeLabz-Training/
 
 **Code Link:**
 [Methods](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods/Week_1)
-
-**Git Activity:**
-
-* Code committed and pushed to GitHub
 
 ---
 
@@ -246,9 +228,6 @@ BridgeLabz-Training/
 **Code Link:**
 [Strings](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
-**Git Activity:**
-
-* Code committed and pushed to GitHub
 
 ---
 # Week 2: OOPs concepts
@@ -279,10 +258,6 @@ BridgeLabz-Training/
 
 **Code Link:**
 [Extras](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
-
-**Git Activity:**
-
-* Code committed and pushed to GitHub
 
 ---
 
@@ -316,10 +291,6 @@ BridgeLabz-Training/
 **Code Link:**
 [Scenario-based-Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-**Git Activity:**
-
-* Code committed and pushed to GitHub
-
 ---
 
 ## Day 10 – OOP Concepts & Core Java Practice
@@ -338,18 +309,16 @@ BridgeLabz-Training/
 
 
 
-**Practiced Problems**
+**Practiced Problems:**
 
 - Pushed **3 scenario-based Core Java questions** to GitHub  
 - Solved **5 LeetCode problems** and pushed solutions to GitHub  
 
 
 
-**Code Links**
+**Code Links:**
 - [Classes and Objects](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
-
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 
 ---
@@ -373,7 +342,7 @@ BridgeLabz-Training/
 
 
 
-**Practiced Problems**
+**Practiced Problems:**
 
 - Implemented multiple **constructor-based programs**
 - Solved **access modifier–based problems** using inheritance
@@ -381,7 +350,7 @@ BridgeLabz-Training/
 
 
 
-**Code Links**
+**Code Links:**
 
 - [Constructors & Access Modifiers](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructorsandaccessmodifiers/level1)
 
@@ -399,7 +368,7 @@ BridgeLabz-Training/
 
 
 
-**Practiced Problems**
+**Practiced Problems:**
 
 - Parking Lot Gate System 🚗
 - The Number Guessing Game 🎲
@@ -408,7 +377,7 @@ BridgeLabz-Training/
 - Phone Recharge Simulator 📱
 
 
-**Code Links**
+**Code Links:**
 
 - [Keywords](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inbuiltfunction/level1)
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_3)
@@ -427,7 +396,7 @@ BridgeLabz-Training/
 
 
 
-**Practiced Problems**
+**Practiced Problems:**
 
 - Sandeep’s Fitness Challenge Tracker 🏋️
 - Train Reservation Queue 🚆
@@ -436,7 +405,7 @@ BridgeLabz-Training/
 - Rohan’s Library Reminder App 📚
 
 
-**Code Links**
+**Code Links:**
 
 - [Object Modeling & Class Diagram](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodelling)
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_4)
@@ -463,7 +432,7 @@ BridgeLabz-Training/
 - Solved **5 LeetCode problems** using Core Java
 
 
-**Practiced Problems**
+**Practiced Problems:**
 
 - Digital Watch Simulation ⏱️
 - Online Quiz Application 🧠
@@ -471,7 +440,7 @@ BridgeLabz-Training/
 - Bus Route Distance Tracker 🚌
 - Festival Lucky Draw 🎉
 
-**Code Links**
+**Code Links:**
 
 - [Inheritance](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
 - [Core Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day_5)
@@ -502,13 +471,13 @@ BridgeLabz-Training/
 	- Loose coupling
 	- Implementation enforcement
 
-**Practiced Problems**
+**Practiced Problems:**
 
 - Solved **5 scenario-based Java OOP programs**:
 - Solved **5 LeetCode problems** on Strings using Core Java
 - Solved multiple questions on **Encapsulation, Polymorphism and Interface**
 
-**Code Links**
+**Code Links:**
 
 - [Encapsulation, Polymorphism and Interface](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationandpolymorphism)
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_1)
@@ -546,7 +515,7 @@ BridgeLabz-Training/
 - Solved **5 scenario-based Java OOP programs**
 - Solved **2 LeetCode problems** on Strings using Core Java
 
-**Code Links**
+**Code Links:**
 
 - [Linked List](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String)
@@ -581,7 +550,7 @@ BridgeLabz-Training/
 and many more...
 - Solved **2 scenario-based Java OOP programs**
 
-**Code Links**
+**Code Links:**
 
 - [Stack & Queue](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueues)
 - [HashMap & Functions](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandfunctions)
@@ -614,9 +583,41 @@ and many more...
 - Solved **2 scenario-based Java OOP programs**
 - Solved **3 LeetCode problems** on Arrays using Core Java
 
-**Code Links**
+**Code Links:**
 
 - [Sorting Algorithms](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_4)
+---
+
+## Day 19 – Sorting Algorithms
+(**Date: 6-Dec-2025**)
+
+
+**Topics studied:**
+- BufferedReader
+- FileReader
+- InputStreamReader
+- StringBuilder
+- StringBuffer
+- Linear Search
+- Binary Search
+
+
+**Practiced Problems:**
+- Concatenate Strings Efficiently Using StringBuffer
+- Read a File Line by Line Using FileReader
+- Convert Byte Stream to Character Stream Using InputStreamReader
+- Search for the First Negative Number
+- Find the Rotation Point in a Rotated Sorted Array
+
+and many more...
+- Solved **4 scenario-based Java OOP programs**
+- Solved **3 LeetCode problems** on Arrays using Core Java
+
+**Code Links:**
+
+- [Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/ioandstringsandsearching)
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_5)
 ---
