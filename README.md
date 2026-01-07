@@ -620,4 +620,36 @@ and many more...
 - [Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/ioandstringsandsearching)
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_5)
+  
 ---
+
+## Day 20 – Algorithm's Runtime Analysis & Big-O Notation
+(**Date: 7-Dec-2025**)
+
+
+**Topics studied:**
+- Runtime Analysis
+- Big-O Notation
+- Time Complexity Analysis
+- Best, Worst, and Average Case Complexities
+
+
+**Practiced Problems:**
+- Search a Target in a Large Dataset
+- Sorting Large Data Efficiently
+- String Concatenation Performance
+- Large File Reading Efficiency
+- Recursive vs Iterative Fibonacci Computation
+
+and many more...
+
+- Solved **3 scenario-based Java OOP programs**
+- Solved **5 LeetCode problems** on Arrays using Core Java
+
+**Code Links:**
+
+- [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmsruntimebigo/)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_6)
+---
+
