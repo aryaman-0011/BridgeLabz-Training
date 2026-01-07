@@ -590,7 +590,7 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_4)
 ---
 
-## Day 19 – Sorting Algorithms
+## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 (**Date: 6-Dec-2025**)
 
 
