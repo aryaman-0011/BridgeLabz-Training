@@ -94,3 +94,35 @@ and many more...
 
 - [Sorting Algorithms](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
 
+---
+
+## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+(**Date: 6-Dec-2025**)
+
+
+**Topics studied:**
+- BufferedReader
+- FileReader
+- InputStreamReader
+- StringBuilder
+- StringBuffer
+- Linear Search
+- Binary Search
+
+
+**Practiced Problems:**
+- Concatenate Strings Efficiently Using StringBuffer
+- Read a File Line by Line Using FileReader
+- Convert Byte Stream to Character Stream Using InputStreamReader
+- Search for the First Negative Number
+- Find the Rotation Point in a Rotated Sorted Array
+
+and many more...
+- Solved **4 scenario-based Java OOP programs**
+- Solved **3 LeetCode problems** on Arrays using Core Java
+
+**Code Links:**
+
+- [Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/ioandstringsandsearching)
+
+---
