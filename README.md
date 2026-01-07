@@ -279,7 +279,7 @@ BridgeLabz-Training/
 
 ---
 
-## Day 15 – Scenario based and Leetcode
+## Day 15 – Leetcode
 (**Date: 1-Dec-2025**)
 
 
@@ -290,3 +290,21 @@ BridgeLabz-Training/
 **Code Links:**
 
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String)
+
+---
+# Week 3: Leetcode Questions
+---
+
+## Day 16 – Leetcode
+(**Date: 2-Dec-2025**)
+
+
+**Practiced Problems:**
+ 
+- Solved **2 LeetCode problems** on Strings using Core Java
+
+**Code Links:**
+
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String)
+
+---
