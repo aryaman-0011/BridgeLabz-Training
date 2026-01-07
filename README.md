@@ -188,7 +188,7 @@ BridgeLabz-Training/
 
 ---
 
-## Day 10 – OOP Concepts & Core Java Practice
+## Day 10 – Scenario based and leetcode
 
 (**Date: 26-Dec-2025**)
 
@@ -208,9 +208,24 @@ BridgeLabz-Training/
 
 ---
 
-## Day 11 – OOP Concepts & Core Java Practice
+## Day 11 – leetcode
 
 (**Date: 27-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **2 LeetCode problems** and pushed solutions to GitHub  
+
+
+
+**Code Links**
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
+
+## Day 12 – OOP Concepts & Core Java Practice
+
+(**Date: 29-Dec-2025**)
 
 **Practiced Problems**
 
@@ -221,7 +236,6 @@ BridgeLabz-Training/
   - Phone Recharge Simulator 📱
   - Parking Lot Gate System 🚗
 - Solved **2 LeetCode problems** and pushed solutions to GitHub  
-
 
 
 **Code Links**
