@@ -336,3 +336,17 @@ BridgeLabz-Training/
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 
 ---
+
+## Day 19 – Leetcode
+(**Date: 6-Dec-2025**)
+
+
+**Practiced Problems:**
+ 
+- Solved **3 LeetCode problems** on Arrays using Core Java
+
+**Code Links:**
+
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
