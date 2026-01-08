@@ -254,3 +254,17 @@ and many more...
   - ParkEase – Smart Parking Management System
 
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_6)
+
+---
+
+## Day 21 – Solved OOPs scenario based problems
+(**Date: 8-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **2 scenario-based Java OOP programs**:
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+
+[OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_7)
+
