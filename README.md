@@ -255,7 +255,6 @@ and many more...
 
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_6)
 
----
 
 ## Day 21 – Solved OOPs scenario based problems
 (**Date: 8-Dec-2025**)
@@ -269,6 +268,8 @@ and many more...
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_7)
 
 ---
+# Week 4: OOPs Scenario Based Ques
+---
 
 ## Day 22 – Solved OOPs scenario based problems
 (**Date: 9-Dec-2025**)
@@ -281,4 +282,3 @@ and many more...
   - SkillForge – Online Learning Portal
     
 [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_8)
-
