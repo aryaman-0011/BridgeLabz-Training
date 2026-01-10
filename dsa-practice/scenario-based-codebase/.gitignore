@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/JavaDSAScenarioBased/.settings/
+
+/JavaDSAScenarioBased/.classpath
+
+/JavaDSAScenarioBased/.project
+
+# Java build output
+
+/JavaDSAScenarioBased/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/JavaDSAScenarioBased/.gitignore
