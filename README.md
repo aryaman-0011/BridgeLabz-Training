@@ -154,7 +154,7 @@ and many more...
 ---
 
 ## Day 23 – Java DSA scenario baesd questions
-(**Date: 10-Jan-2025**)
+(**Date: 10-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **3 scenario-based Java DSA programs:**
@@ -165,4 +165,18 @@ and many more...
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
+---
+
+## Day 24 – Java DSA scenario baesd questions
+(**Date: 12-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_2)
 ---
