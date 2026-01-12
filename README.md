@@ -451,7 +451,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 15 – Encapsulation, Polymorphism and Interface
-(**Date: 1-Jan-2025**)
+(**Date: 1-Jan-2026**)
 
 
 **Topics studied:**
@@ -490,7 +490,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 16 – Introduction to DSA & Linked list
-(**Date: 2-Jan-2025**)
+(**Date: 2-Jan-2026**)
 
 
 **Topics studied:**
@@ -525,7 +525,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 17 – Stack , Queue, HashMap and Hashing Function
-(**Date: 3-Jan-2025**)
+(**Date: 3-Jan-2026**)
 
 
 **Topics studied:**
@@ -561,7 +561,7 @@ and many more...
 ---
 
 ## Day 18 – Sorting Algorithms
-(**Date: 5-Jan-2025**)
+(**Date: 5-Jan-2026**)
 
 
 **Topics studied:**
@@ -593,7 +593,7 @@ and many more...
 ---
 
 ## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
-(**Date: 6-Jan-2025**)
+(**Date: 6-Jan-2026**)
 
 
 **Topics studied:**
@@ -626,7 +626,7 @@ and many more...
 ---
 
 ## Day 20 – Algorithm's Runtime Analysis & Big-O Notation
-(**Date: 7-Jan-2025**)
+(**Date: 7-Jan-2026**)
 
 
 **Topics studied:**
@@ -656,7 +656,7 @@ and many more...
 ---
 
 ## Day 21 – Java OOPs scenario baesd questions
-(**Date: 8-Jan-2025**)
+(**Date: 8-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **2 scenario-based Java OOP programs:**
@@ -669,7 +669,7 @@ and many more...
 ---
 
 ## Day 22 – Java OOPs scenario baesd questions
-(**Date: 9-Jan-2025**)
+(**Date: 9-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **3 scenario-based Java OOP programs:**
@@ -680,10 +680,13 @@ and many more...
 **Code Links:**
 
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_8)
+
+---
+# Week 4: DSA Scenario based questions and Leetcode
 ---
 
 ## Day 23 – Java DSA scenario baesd questions
-(**Date: 10-Jan-2025**)
+(**Date: 10-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **3 scenario-based Java DSA programs:**
@@ -694,4 +697,20 @@ and many more...
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
+---
+
+## Day 24 – Java DSA scenario baesd questions and leetcode
+(**Date: 12-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+- Solved **5 LeetCode problems** using Core Java
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_2)
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/)
 ---
