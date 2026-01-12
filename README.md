@@ -2,7 +2,7 @@
 ---
 
 ## Day 16 – Introduction to DSA & Linked list
-(**Date: 2-Dec-2025**)
+(**Date: 2-Jan-2026**)
 
 
 **Topics studied:**
@@ -34,7 +34,7 @@
 ---
 
 ## Day 17 – Stack , Queue, HashMap and Hashing Function
-(**Date: 3-Dec-2025**)
+(**Date: 3-Jan-2026**)
 
 
 **Topics studied:**
@@ -68,7 +68,7 @@ and many more...
 ---
 
 ## Day 18 – Sorting Algorithms
-(**Date: 5-Dec-2025**)
+(**Date: 5-Jan-2026**)
 
 
 **Topics studied:**
@@ -97,7 +97,7 @@ and many more...
 ---
 
 ## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
-(**Date: 6-Dec-2025**)
+(**Date: 6-Jan-2026**)
 
 
 **Topics studied:**
@@ -126,7 +126,7 @@ and many more...
 ---
 
 ## Day 20 – Algorithm's Runtime Analysis & Big-O Notation
-(**Date: 7-Dec-2025**)
+(**Date: 7-Jan-2026**)
 
 
 **Topics studied:**
@@ -149,4 +149,20 @@ and many more...
 
 - [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmsruntimebigo/)
 
+---
+# Week 4: DSA Scenario based questions
+---
+
+## Day 23 – Java DSA scenario baesd questions
+(**Date: 10-Jan-2025**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
 ---
