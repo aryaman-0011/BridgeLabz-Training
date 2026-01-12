@@ -681,3 +681,17 @@ and many more...
 
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_8)
 ---
+
+## Day 23 – Java DSA scenario baesd questions
+(**Date: 10-Jan-2025**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
+---
