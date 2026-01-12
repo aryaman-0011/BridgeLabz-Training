@@ -32,10 +32,12 @@ BridgeLabz-Training/
 │   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
-│   │               └── 📁 stackandqueues/     # Stack & Queue
-│   │               └── 📁 hashmap/            # HashMap + Hash Functions
-│   │               └── 📁 sorting/            # Sorting Algorithms
+│   │               ├── 📁 linkedlist/        				# Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/     				# Stack & Queue
+│   │               └── 📁 hashmapandfunctions/            	# HashMap + Hash Functions
+│   │               └── 📁 sorting/            				# Sorting Algorithms
+|	|				└── 📁 ioandstringsandsearching/		# IO, Strings and Searching
+|	|				└── 📁 algorithmsruntimebigo/			# Algorithms, Big O, Runtime
 ```
 
 ---
@@ -449,7 +451,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 15 – Encapsulation, Polymorphism and Interface
-(**Date: 1-Dec-2025**)
+(**Date: 1-Jan-2025**)
 
 
 **Topics studied:**
@@ -488,7 +490,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 16 – Introduction to DSA & Linked list
-(**Date: 2-Dec-2025**)
+(**Date: 2-Jan-2025**)
 
 
 **Topics studied:**
@@ -523,7 +525,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 17 – Stack , Queue, HashMap and Hashing Function
-(**Date: 3-Dec-2025**)
+(**Date: 3-Jan-2025**)
 
 
 **Topics studied:**
@@ -559,7 +561,7 @@ and many more...
 ---
 
 ## Day 18 – Sorting Algorithms
-(**Date: 5-Dec-2025**)
+(**Date: 5-Jan-2025**)
 
 
 **Topics studied:**
@@ -591,7 +593,7 @@ and many more...
 ---
 
 ## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
-(**Date: 6-Dec-2025**)
+(**Date: 6-Jan-2025**)
 
 
 **Topics studied:**
@@ -624,7 +626,7 @@ and many more...
 ---
 
 ## Day 20 – Algorithm's Runtime Analysis & Big-O Notation
-(**Date: 7-Dec-2025**)
+(**Date: 7-Jan-2025**)
 
 
 **Topics studied:**
@@ -653,3 +655,15 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_6)
 ---
 
+## Day 21 – Java OOPs scenario baesd questions
+(**Date: 8-Jan-2025**)
+
+**Practiced Problems:**
+- Solved **2 scenario-based Java OOP programs:**
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+
+**Code Links:**
+
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_7)
+---
