@@ -378,3 +378,17 @@ BridgeLabz-Training/
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
 
 ---
+# Week 4: Leetcode Questions
+---
+
+## Day 24 – Leetcode
+(**Date: 12-Jan-2026**)
+
+
+**Practiced Problems:**
+ 
+- Solved **5 LeetCode problems** using Core Java
+
+**Code Links:**
+
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/)
