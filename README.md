@@ -280,7 +280,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 15 – Leetcode
-(**Date: 1-Dec-2025**)
+(**Date: 1-Jan-2026**)
 
 
 **Practiced Problems:**
@@ -296,7 +296,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 16 – Leetcode
-(**Date: 2-Dec-2025**)
+(**Date: 2-Jan-2026**)
 
 
 **Practiced Problems:**
@@ -310,7 +310,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 17 – Leetcode
-(**Date: 3-Dec-2025**)
+(**Date: 3-Jan-2026**)
 
 
 **Practiced Problems:**
@@ -324,7 +324,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 18 – Leetcode
-(**Date: 5-Dec-2025**)
+(**Date: 5-Jan-2026**)
 
 
 **Practiced Problems:**
@@ -338,7 +338,7 @@ BridgeLabz-Training/
 ---
 
 ## Day 19 – Leetcode
-(**Date: 6-Dec-2025**)
+(**Date: 6-Jan-2026**)
 
 
 **Practiced Problems:**
@@ -352,12 +352,26 @@ BridgeLabz-Training/
 ---
 
 ## Day 20 – Leetcode
-(**Date: 7-Dec-2025**)
+(**Date: 7-Jan-2026**)
 
 
 **Practiced Problems:**
  
 - Solved **5 LeetCode problems** on Arrays using Core Java
+
+**Code Links:**
+
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array)
+
+---
+
+## Day 21 – Leetcode
+(**Date: 8-Jan-2026**)
+
+
+**Practiced Problems:**
+ 
+- Solved **1 LeetCode problem** on Arrays using Core Java
 
 **Code Links:**
 
