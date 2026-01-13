@@ -699,18 +699,42 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
 ---
 
-## Day 24 – Java DSA scenario baesd questions and leetcode
+## Day 24 – Java DSA & OOPs scenario baesd questions and leetcode
 (**Date: 12-Jan-2026**)
 
 **Practiced Problems:**
-- Solved **3 scenario-based Java DSA programs:**
+- Solved **5 scenario-based Java DSA programs:**
   - CallCenter – Customer Queue Manager (Queue + HashMap)
   - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
   - TextEditor – Undo/Redo Functionality (Stack)
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+  - BookShelf – Library Organizer (HashMap + Linked List)
+- Solved **3 scenario-based Java DSA programs:**
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
 - Solved **5 LeetCode problems** using Core Java
 
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_2)
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_9)
+
+---
+
+## Day 25 – Trees Theory & Java DSA scenario baesd questions
+(**Date: 13-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+- Solved **3 LeetCode problems** using Core Java.
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_3)
 ---
