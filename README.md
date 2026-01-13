@@ -392,3 +392,17 @@ BridgeLabz-Training/
 **Code Links:**
 
 - [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/)
+
+---
+
+## Day 25 – Leetcode
+(**Date: 13-Jan-2026**)
+
+
+**Practiced Problems:**
+ 
+- Solved **3 LeetCode problems** using Core Java
+
+**Code Links:**
+
+- [Leetcode Practice](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/)
