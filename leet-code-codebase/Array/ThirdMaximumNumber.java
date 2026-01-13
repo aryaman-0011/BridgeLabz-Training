@@ -1,88 +1,46 @@
-/* 
-414. Third Maximum Number
-
-Given an integer array nums, return the third distinct maximum number.
-If the third maximum does not exist, return the maximum number.
-
-Example 1:
-Input: nums = [3,2,1]
-Output: 1
-
-Example 2:
-Input: nums = [1,2]
-Output: 2
-
-Example 3:
-Input: nums = [2,2,3,1]
-Output: 1
-*/
-
-import java.util.Scanner;
+import java.util.*;
+import java.util.stream.*;
 
 public class ThirdMaximumNumber {
 
-    // Method to find third maximum
-    static int thirdMax(int[] nums) {
+    public static int thirdMax(int[] nums) {
 
-        Long first = null;
-        Long second = null;
-        Long third = null;
+        Integer[] arr = Arrays.stream(nums).boxed().toArray(Integer[]::new);
+        Arrays.sort(arr, Collections.reverseOrder());
 
-        for (int i = 0; i < nums.length; i++) {
+        int distinctCount = 1;
 
-            long num = nums[i];
-
-            // Skip duplicate values
-            if ((first != null && num == first) ||
-                (second != null && num == second) ||
-                (third != null && num == third)) {
-                continue;
+        for (int i = 1; i < arr.length; i++) {
+            if (!arr[i].equals(arr[i - 1])) {
+                distinctCount++;
             }
-
-            if (first == null || num > first) {
-                third = second;
-                second = first;
-                first = num;
-            }
-            else if (second == null || num > second) {
-                third = second;
-                second = num;
-            }
-            else if (third == null || num > third) {
-                third = num;
+            if (distinctCount == 3) {
+                return arr[i];
             }
         }
 
-        // If third max exists return it, else return first max
-        if (third == null) {
-            return first.intValue();
-        }
-
-        return third.intValue();
+        // If third distinct max does not exist
+        return arr[0];
     }
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-        // Array size
-        System.out.print("Enter array size: ");
-        int n = input.nextInt();
+        System.out.print("Enter number of elements: ");
+        int n = sc.nextInt();
 
         int[] nums = new int[n];
 
-        // Input array
-        System.out.println("Enter elements:");
-        for (int i = 0; i < nums.length; i++) {
-            nums[i] = input.nextInt();
+        System.out.println("Enter array elements:");
+        for (int i = 0; i < n; i++) {
+            nums[i] = sc.nextInt();
         }
 
-        // Call method
         int result = thirdMax(nums);
 
-        // Output
         System.out.println("Third maximum number: " + result);
 
-        input.close();
+        sc.close();
     }
 }
