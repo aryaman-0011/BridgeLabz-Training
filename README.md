@@ -699,7 +699,7 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
 ---
 
-## Day 24 – Java DSA & OOPs scenario baesd questions and leetcode
+## Day 24 – Java DSA & OOP scenario baesd questions and leetcode
 (**Date: 12-Jan-2026**)
 
 **Practiced Problems:**
@@ -709,7 +709,7 @@ and many more...
   - TextEditor – Undo/Redo Functionality (Stack)
   - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
   - BookShelf – Library Organizer (HashMap + Linked List)
-- Solved **3 scenario-based Java DSA programs:**
+- Solved **3 scenario-based Java OOP programs:**
   - HomeNest – Smart Home Device Manager
   - BudgetWise – Personal Finance Tracker
   - GameBox – Mobile Game Distribution Platform
@@ -731,10 +731,15 @@ and many more...
   - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
   - ParcelTracker – Delivery Chain Management (Singly Linked List)
   - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+- Solved **2 scenario-based Java OOP programs:**
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary
 - Solved **3 LeetCode problems** using Core Java.
 
 
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_3)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_10)
+
 ---
