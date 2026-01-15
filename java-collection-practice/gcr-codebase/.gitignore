@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/JavaCollectionConcepts/.settings/
+
+/JavaCollectionConcepts/.classpath
+
+/JavaCollectionConcepts/.project
+
+# Java build output
+
+/JavaCollectionConcepts/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/JavaCollectionConcepts/.gitignore
