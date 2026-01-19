@@ -723,7 +723,7 @@ and many more...
 
 ---
 
-## Day 25 – Trees Theory & Java DSA scenario baesd questions
+## Day 25 – Trees Theory & Java DSA, OOP scenario baesd questions
 (**Date: 13-Jan-2026**)
 
 **Practiced Problems:**
@@ -743,7 +743,7 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_10)
 
 ---
-## Day 26 – Generics & Graphs Theory & Java DSA, OOP scenario baesd questions
+## Day 26 – Generics & Graphs Theory & Java DSA scenario baesd questions
 (**Date: 15-Jan-2026**)
 
 **Topics Studied**
@@ -768,7 +768,7 @@ and many more...
 - [Generics](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
 ---
 
-## Day 27 – Collections & Java DSA, OOP scenario baesd questions
+## Day 27 – Collections & Java DSA scenario baesd questions
 (**Date: 16-Jan-2026**)
 
 **Topics Studied**
@@ -789,5 +789,29 @@ and many more...
 
 **Code Links:**
 
-- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_4)
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_5)
 - [Collections](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/collections)
+
+---
+
+## Day 28 – Java DSA and OOP scenario baesd questions
+(**Date: 17-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **4 scenario-based Java DSA programs:**
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+- Solved **2 scenario-based Java OOP programs:**
+  - GeoMeasure Solutions
+  - Bag-n-Ball Organizer
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_6)
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_11)
+
+---
+
