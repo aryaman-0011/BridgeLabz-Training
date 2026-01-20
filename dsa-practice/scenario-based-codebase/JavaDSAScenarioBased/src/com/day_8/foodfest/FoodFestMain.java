@@ -1,4 +1,4 @@
-package com.day_8.movietime.foodfest;
+package com.day_8.foodfest;
 
 
 public class FoodFestMain {
