@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/java-iostreams-practice/.settings/
+
+/java-iostreams-practice/.classpath
+
+/java-iostreams-practice/.project
+
+# Java build output
+
+/java-iostreams-practice/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/java-iostreams-practice/.gitignore
