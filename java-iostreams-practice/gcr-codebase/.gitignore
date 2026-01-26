@@ -2,15 +2,15 @@
 
 .metadata/
 
-/java-iostreams-practice/.settings/
+/JavaIOStreamConcepts/.settings/
 
-/java-iostreams-practice/.classpath
+/JavaIOStreamConcepts/.classpath
 
-/java-iostreams-practice/.project
+/JavaIOStreamConcepts/.project
 
 # Java build output
 
-/java-iostreams-practice/bin/
+/JavaIOStreamConcepts/bin/
 
 target/
 
@@ -24,4 +24,4 @@ target/
 
 Thumbs.db
 
-/java-iostreams-practice/.gitignore
+/JavaIOStreamConcepts/.gitignore
