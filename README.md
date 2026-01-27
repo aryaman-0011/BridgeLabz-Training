@@ -336,3 +336,18 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_5)
 
 ---
+
+## Day 28 – Java OOP scenario based questions
+(**Date: 17-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **2 scenario-based Java OOP programs:**
+  - GeoMeasure Solutions
+  - Bag-n-Ball Organizer
+
+
+**Code Links:**
+
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_11)
+
+---
