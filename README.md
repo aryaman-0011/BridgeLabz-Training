@@ -80,4 +80,28 @@
   
 ---
 
+## Day 30 – Exceptions
+(**Date: 20-Jan-2026**)
+
+**Topics Studied**
+- Exceptions
+- Types of Exceptions
+  - Checked Exceptions,
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions
+  - try-catch blocks
+  - try-catch-finally blocks
+  - try-with-resources statement
+  - throws clause
+  - throw statement
+
+**Practiced Problems:**
+- Solved problems on Exceptions
+
+
+**Code Links:**
+
+- [Java Exceptions](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+
 
