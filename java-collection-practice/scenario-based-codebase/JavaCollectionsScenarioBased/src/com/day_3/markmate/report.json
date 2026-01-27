@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aryaman",
+    "maths": 85,
+    "science": 78,
+    "english": 90,
+    "computer": 88,
+    "total": 341,
+    "average": 85.25,
+    "grade": "A"
+  },
+  {
+    "name": "Vansh",
+    "maths": 70,
+    "science": 65,
+    "english": 60,
+    "computer": 72,
+    "total": 267,
+    "average": 66.75,
+    "grade": "B"
+  }
+]
