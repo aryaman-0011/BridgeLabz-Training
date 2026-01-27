@@ -153,7 +153,7 @@ and many more...
 # Week 4: DSA Scenario based questions
 ---
 
-## Day 23 – Java DSA scenario baesd questions
+## Day 23 – Java DSA scenario based questions
 (**Date: 10-Jan-2026**)
 
 **Practiced Problems:**
@@ -167,7 +167,7 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
 ---
 
-## Day 24 – Java DSA scenario baesd questions
+## Day 24 – Java DSA scenario based questions
 (**Date: 12-Jan-2026**)
 
 **Practiced Problems:**
@@ -181,7 +181,7 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_2)
 ---
 
-## Day 25 – Java DSA scenario baesd questions
+## Day 25 – Java DSA scenario based questions
 (**Date: 13-Jan-2026**)
 
 **Practiced Problems:**
@@ -196,7 +196,7 @@ and many more...
 
 ---
 
-## Day 26 – Java DSA scenario baesd questions
+## Day 26 – Java DSA scenario based questions
 (**Date: 15-Jan-2026**)
 
 **Practiced Problems:**
@@ -212,7 +212,7 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_4)
 ---
 
-## Day 27 – Java DSA scenario baesd questions
+## Day 27 – Java DSA scenario based questions
 (**Date: 16-Jan-2026**)
 
 **Practiced Problems:**
@@ -226,7 +226,7 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_5)
 ---
 
-## Day 28 – Java DSA scenario baesd questions
+## Day 28 – Java DSA scenario based questions
 (**Date: 17-Jan-2026**)
 
 **Practiced Problems:**
@@ -239,4 +239,22 @@ and many more...
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_6)
+---
+
+---
+# Week 5: DSA Scenario based questions
+---
+
+## Day 29 – Java DSA scenario based questions
+(**Date: 19-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_7)
 ---
