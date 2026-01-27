@@ -175,3 +175,20 @@
 - [Java Collections Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com/day_1)
 
 ---
+
+## Day 34 – Java Collections scenario based questions
+(**Date: 24-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java Collections programs:**
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+
+**Code Links:**
+
+- [Java Collections Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com/day_2)
+
+---
