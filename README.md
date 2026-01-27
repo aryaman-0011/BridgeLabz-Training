@@ -41,5 +41,18 @@
 
 ---
 
+## Day 28 – Collections
+(**Date: 17-Jan-2026**)
+
+**Practiced Problems:**
+- Solved problems on Collections
+
+
+**Code Links:**
+
+- [Collections](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/collections)
+
+---
+
 
 
