@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testuserregestration;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testuserregestration.UserRegistration;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class UserRegistrationTest {

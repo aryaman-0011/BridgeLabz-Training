@@ -1,8 +1,11 @@
-package com.regexandjunit.junit.testingannotations;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testingannotations.DatabaseConnection;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class DatabaseConnectionTest {

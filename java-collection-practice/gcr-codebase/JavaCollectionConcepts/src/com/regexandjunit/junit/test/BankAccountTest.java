@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testbanktransactions;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testbanktransactions.BankAccount;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class BankAccountTest {

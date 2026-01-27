@@ -1,8 +1,10 @@
-package com.regexandjunit.junit.testcalculatorclass;
+package com.regexandjunit.junit.test;
 
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testcalculatorclass.Calculator;
 
 public class CalculatorTestMain {
 

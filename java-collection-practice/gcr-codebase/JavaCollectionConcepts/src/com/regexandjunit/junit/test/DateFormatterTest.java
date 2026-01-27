@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testdateformatter;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testdateformatter.DateFormatter;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class DateFormatterTest {

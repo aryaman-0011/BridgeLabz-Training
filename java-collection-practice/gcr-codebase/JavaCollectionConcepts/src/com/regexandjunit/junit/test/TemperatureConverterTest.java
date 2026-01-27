@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testtempconverter;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testtempconverter.TemperatureConverter;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class TemperatureConverterTest {

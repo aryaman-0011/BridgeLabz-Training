@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.listops;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.listops.ListManager;
+
 import java.util.ArrayList;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;

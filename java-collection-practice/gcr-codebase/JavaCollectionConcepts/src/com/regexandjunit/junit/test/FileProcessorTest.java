@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testingfilehandling;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testingfilehandling.FileProcessor;
+
 import java.io.File;
 import java.io.IOException;
 import static org.junit.jupiter.api.Assertions.*;

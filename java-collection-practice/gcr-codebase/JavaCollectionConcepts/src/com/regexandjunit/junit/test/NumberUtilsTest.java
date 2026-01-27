@@ -1,7 +1,10 @@
-package com.regexandjunit.junit.parameterizedtests;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
+import com.regexandjunit.junit.parameterizedtests.NumberUtils;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class NumberUtilsTest {

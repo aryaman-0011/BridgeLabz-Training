@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.teststringmethods;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.teststringmethods.StringUtils;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class StringTests {

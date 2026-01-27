@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testpasswordstrength;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testpasswordstrength.PasswordValidator;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class PasswordValidatorTest {

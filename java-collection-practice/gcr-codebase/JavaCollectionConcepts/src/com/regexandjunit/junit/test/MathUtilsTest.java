@@ -1,6 +1,9 @@
-package com.regexandjunit.junit.testexception;
+package com.regexandjunit.junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.regexandjunit.junit.testexception.MathUtils;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class MathUtilsTest {
