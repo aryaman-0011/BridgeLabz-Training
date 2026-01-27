@@ -239,7 +239,7 @@ and many more...
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_6)
----
+
 
 ---
 # Week 5: DSA Scenario based questions
@@ -257,4 +257,19 @@ and many more...
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_7)
+---
+
+## Day 30 – Java DSA scenario based questions
+(**Date: 20-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_8)
+
 ---
