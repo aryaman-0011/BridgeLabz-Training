@@ -915,3 +915,31 @@ and many more...
 - [Regex & Junit](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/regexandjunit)
 
 ---
+
+## Day 32 – Regex and Junit & Java DSA scenario based questions
+(**Date: 22-Jan-2026**)
+
+**Topics Studied**
+- Annotations
+  - Common Built-in Annotations
+  - Creating Custom Annotations
+  - Advanced Custom Annotations
+  - Real-World Use Cases
+  - Annotation Processing Tools
+- Reflection
+  - Understanding of Reflection
+  - Using Reflection in Java
+  - Annotations and Reflection
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - Gaming App - Real-Time Leaderboard
+  - Online Ticket Booking by Time
+  - UHospital Queue Management
+
+**Code Links:**
+
+- [AVL tree Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_11)
+- [Annotations & Reflection](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotationsandreflection)
+
+---
