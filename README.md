@@ -966,3 +966,29 @@ and many more...
 
 - [Java Collections Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com/day_1)
 - [CSV Data Handling](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/csvdatahandling)
+
+---
+
+## Day 34 – JSON Data & Java Collections scenario based questions
+(**Date: 24-Jan-2026**)
+
+**Topics Studied**
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java Collections programs:**
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+
+**Code Links:**
+
+- [Java Collections Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com/day_2)
+- [JSON Data](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/json)
+
