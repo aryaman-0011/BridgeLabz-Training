@@ -901,7 +901,7 @@ and many more...
   - Assertions
 
 **Practiced Problems:**
-- Solved **3 scenario-based Java DSA programs:**
+- Solved **5 scenario-based Java DSA programs:**
   - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
   - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
   - University's Digital Record System
@@ -943,3 +943,26 @@ and many more...
 - [Annotations & Reflection](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotationsandreflection)
 
 ---
+
+## Day 33 – CSV Data Handling & Java Collections scenario based questions
+(**Date: 23-Jan-2026**)
+
+**Topics Studied**
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java Collections programs:**
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - UFeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+
+**Code Links:**
+
+- [Java Collections Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com/day_1)
+- [CSV Data Handling](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/csvdatahandling)
