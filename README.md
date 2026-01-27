@@ -351,3 +351,21 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_11)
 
 ---
+
+
+# Week 5: Java OOP Scenario based questions
+---
+
+## Day 29 – Streams & Java DSA, OOP scenario based questions
+(**Date: 19-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **1 scenario-based Java OOP programs:**
+  - Address Book System
+
+
+**Code Links:**
+
+- [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_12)
+
+---
