@@ -20,3 +20,23 @@
 - [CSV Data Handling](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/csvdatahandling)
 
 ---
+
+## Day 34 – JSON Data
+(**Date: 24-Jan-2026**)
+
+**Topics Studied**
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+
+**Practiced Problems:**
+- Solved problems on JSON Data
+
+
+**Code Links:**
+
+- [JSON Data](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/json)
+
+---
