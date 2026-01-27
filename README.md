@@ -655,7 +655,7 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_6)
 ---
 
-## Day 21 – Java OOPs scenario baesd questions
+## Day 21 – Java OOPs scenario based questions
 (**Date: 8-Jan-2026**)
 
 **Practiced Problems:**
@@ -668,7 +668,7 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_7)
 ---
 
-## Day 22 – Java OOPs scenario baesd questions
+## Day 22 – Java OOPs scenario based questions
 (**Date: 9-Jan-2026**)
 
 **Practiced Problems:**
@@ -699,7 +699,7 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_1)
 ---
 
-## Day 24 – Java DSA & OOP scenario baesd questions and leetcode
+## Day 24 – Java DSA & OOP scenario based questions and leetcode
 (**Date: 12-Jan-2026**)
 
 **Practiced Problems:**
@@ -723,7 +723,7 @@ and many more...
 
 ---
 
-## Day 25 – Trees Theory & Java DSA, OOP scenario baesd questions
+## Day 25 – Trees Theory & Java DSA, OOP scenario based questions
 (**Date: 13-Jan-2026**)
 
 **Practiced Problems:**
@@ -743,7 +743,7 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_10)
 
 ---
-## Day 26 – Generics & Graphs Theory & Java DSA scenario baesd questions
+## Day 26 – Generics & Graphs Theory & Java DSA scenario based questions
 (**Date: 15-Jan-2026**)
 
 **Topics Studied**
@@ -768,7 +768,7 @@ and many more...
 - [Generics](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
 ---
 
-## Day 27 – Collections & Java DSA scenario baesd questions
+## Day 27 – Collections & Java DSA scenario based questions
 (**Date: 16-Jan-2026**)
 
 **Topics Studied**
@@ -794,7 +794,7 @@ and many more...
 
 ---
 
-## Day 28 – Java DSA and OOP scenario baesd questions
+## Day 28 – Java DSA and OOP scenario based questions
 (**Date: 17-Jan-2026**)
 
 **Practiced Problems:**
@@ -815,10 +815,10 @@ and many more...
 
 
 ---
-# Week 5: Collections & DSA Scenario based questions
+# Week 5: IO Programming, Collections & DSA Scenario based questions
 ---
 
-## Day 29 – Streams & Java DSA, OOP scenario baesd questions
+## Day 29 – Streams & Java DSA, OOP scenario based questions
 (**Date: 19-Jan-2026**)
 
 **Topics Studied**
@@ -844,6 +844,37 @@ and many more...
 - [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_7)
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_12)
 - [Java Srteams](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
+
+
+---
+
+## Day 30 – Exceptions & Java DSA scenario based questions
+(**Date: 20-Jan-2026**)
+
+**Topics Studied**
+- Exceptions
+- Types of Exceptions
+  - Checked Exceptions,
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions
+  - try-catch blocks
+  - try-catch-finally blocks
+  - try-with-resources statement
+  - throws clause
+  - throw statement
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_8)
+- [Java Exceptions](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
 
 
 ---
