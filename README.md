@@ -314,3 +314,14 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOppsScenarioBased/src/com/day_10)
 
 ---
+
+## Day 26 – Java DSA scenario based questions
+(**Date: 15-Jan-2026**)
+
+**Practiced Problems:**
+- Solved DSA Scenario based queestions
+
+**Code Links:**
+- [DSA Java Scenario Based Programs](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDSAScenarioBased/src/com/day_4)
+
+---
