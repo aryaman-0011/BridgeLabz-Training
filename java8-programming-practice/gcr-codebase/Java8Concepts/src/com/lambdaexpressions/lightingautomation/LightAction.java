@@ -1,5 +1,6 @@
 package com.lambdaexpressions.lightingautomation;
 
-public interface LightAction {
-
+@FunctionalInterface
+interface LightAction {
+    void execute();
 }
