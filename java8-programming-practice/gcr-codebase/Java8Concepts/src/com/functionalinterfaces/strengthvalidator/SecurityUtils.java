@@ -1,6 +1,6 @@
 package com.functionalinterfaces.strengthvalidator;
 
-public class SecurityUtils {
+public interface SecurityUtils {
 
 	public static boolean isStrong(String password) {
 		
