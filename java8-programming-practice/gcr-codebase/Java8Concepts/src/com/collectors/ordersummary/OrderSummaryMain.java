@@ -1,4 +1,4 @@
-package com.collectors.wordfrequency;
+package com.collectors.ordersummary;
 
 import java.util.*;
 import java.util.stream.Collectors;

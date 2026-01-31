@@ -1,4 +1,4 @@
-package com.collectors.wordfrequency;
+package com.collectors.ordersummary;
 
 public class Order {
 
