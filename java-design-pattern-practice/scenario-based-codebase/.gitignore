@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/JavaDesignScenarioBased/.settings/
+
+/JavaDesignScenarioBased/.classpath
+
+/JavaDesignScenarioBased/.project
+
+# Java build output
+
+/JavaDesignScenarioBased/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/JavaDesignScenarioBased/.gitignore
