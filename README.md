@@ -27,3 +27,13 @@
 - [Java Multithreading](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/JavaDesignPatternConcepts/src/com/multithreading)
 
 ---
+
+## Day 39 – Java Multithreading Scenario Based
+(**Date: 3-feb-2026**)
+
+**Practiced Problems:**
+- Solved **1 scenario-based Java Multithreading program:**
+  - Bank Transactions
+  
+**Code Links:**
+- [Multithreading Scenario Based Program](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/JavaDesignScenarioBased/src/com/day_1)
