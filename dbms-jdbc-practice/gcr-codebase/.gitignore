@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/MySqlConcepts/.settings/
+
+/MySqlConcepts/.classpath
+
+/MySqlConcepts/.project
+
+# Java build output
+
+/MySqlConcepts/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/MySqlConcepts/.gitignore
