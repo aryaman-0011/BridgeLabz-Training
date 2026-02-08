@@ -1070,7 +1070,7 @@ and many more...
 ---
 
 ## Day 39 – Java Multithreading Scenario Based
-(**Date: 2-feb-2026**)
+(**Date: 3-feb-2026**)
 
 **Practiced Problems:**
 - Solved **1 scenario-based Java Multithreading program:**
@@ -1078,4 +1078,23 @@ and many more...
   
 **Code Links:**
 - [Multithreading Scenario Based Program](https://github.com/aryaman-0011/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/JavaDesignScenarioBased/src/com/day_1)
+
+---
+# Week 8: MYSQL & JDBC
+----
+
+## Day 40 – MYSQL
+(**Date: 6-feb-2026**)
+
+**Topics Studied:**
+- Introduction to Indexing
+- Types of Indexes in MySQL
+- How Indexes Work
+- Creating and Managing Indexes
+- Index Best Practices
+- Performance Considerations
+
+**Code Links:**
+- [MYSQL](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/MySqlConcepts/src/com/mysql)
+
 ---
