@@ -1113,3 +1113,17 @@ and many more...
   
 **Code Links:**
 - [MYSQL Scenario Based Program](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/DbmsScenarioBased/src/com/mysqlpractice)
+
+---
+
+## Day 42 – JDBC
+(**Date: 9-feb-2026**)
+
+**Practiced Problems:**
+- Studied and Practiced questions JDBC
+  - Banking Management
+  - Employee Management
+  - Library Management
+  
+**Code Links:**
+- [JDBC](https://github.com/aryaman-0011/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JdbcPractice/src/main/java/com)
